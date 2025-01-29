@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OCT Classifier</string>
+    <string name="btn_photo_ch">Choose photo</string>
+    <string name="btn_photo_clf">Classify image</string>
+    <string name="btn_camera_ch">Take photo</string>
+    <string name="btn_camera_clf">Classify image</string>
+    <string name="classify_image">classify image</string>
+    <string name="oct_classifier">OCT Classifier</string>
+    <string name="choose_image_from_gallery">choose image from gallery</string>
+    <string name="take_photo">take photo</string>
+    <string name="classifying_please_wait">Classifying... Please wait</string>
+</resources>

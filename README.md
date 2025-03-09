@@ -14,7 +14,6 @@ To run the application source code, download and install the Android Studio soft
 After opening the project, it is necessary to synchronize the files with the Ctrl+Shift+O shortcut, during which all the necessary libraries will be downloaded. At this point, the application is ready to be launched on a mobile device, for this purpose you can use wireless debugging, or connect the phone to the computer in USB debugging mode. 
 
 # Citation
-Stankiewicz, A.; Marciniak, T.; Budna, N.; Chwalek, R.; Dziedzic, M. Classification of OCT Images of the Human Eye Using Mobile Devices.\
-Appl. Sci. 2025, 15, 2937. https://doi.org/10.3390/app15062937
+Stankiewicz, A.; Marciniak, T.; Budna, N.; Chwalek, R.; Dziedzic, M. Classification of OCT Images of the Human Eye Using Mobile Devices. Appl. Sci. 2025, 15, 2937. https://doi.org/10.3390/app15062937
 
 
